@@ -1,0 +1,12 @@
+// Tokens
+export const wstETH = '0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6';
+export const USDC = '0x29219dd400f2Bf60E5a23d13Be72B486D4038894';
+export const MARKET_ADDRESS = '0x3F5EA53d1160177445B1898afbB16da111182418';
+export const SY_ADDRESS = '0xc4a9d8b486f388cc0e4168d2904277e8c8372fa3';
+export const PT_ADDRESS = '0x930441aa7ab17654df5663781ca0c02cc17e6643';
+export const YT_ADDRESS = '0x18d2d54f42ba720851bae861b98a0f4b079e6027';
+
+export const CHAIN_ID = 146;
+export const RECEIVER_ADDRESS = '0x732D2A5aE6576775c9edf9877bd03B5567e75094';
+export const ORDER_ID = '<ORDER_ID>'
+export const USER_ADDRESS = '<USER_ADDRESS>'
